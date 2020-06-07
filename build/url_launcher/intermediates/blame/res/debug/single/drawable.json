@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/leonardo/Projetos/app_loja/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/leonardo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/6effb3883040554bbbb8b5f83a3a24c1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/leonardo/Projetos/app_loja/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/leonardo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/6effb3883040554bbbb8b5f83a3a24c1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/leonardo/Projetos/app_loja/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/leonardo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/6effb3883040554bbbb8b5f83a3a24c1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/leonardo/Projetos/app_loja/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/leonardo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/6effb3883040554bbbb8b5f83a3a24c1/res/drawable/notification_icon_background.xml"
+    }
+]

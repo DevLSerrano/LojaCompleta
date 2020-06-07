@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/leonardo/Projetos/app_loja/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/leonardo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/6effb3883040554bbbb8b5f83a3a24c1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/leonardo/Projetos/app_loja/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/leonardo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/6effb3883040554bbbb8b5f83a3a24c1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/leonardo/Projetos/app_loja/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/leonardo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/6effb3883040554bbbb8b5f83a3a24c1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/leonardo/Projetos/app_loja/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/leonardo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/6effb3883040554bbbb8b5f83a3a24c1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/leonardo/Projetos/app_loja/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/leonardo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/6effb3883040554bbbb8b5f83a3a24c1/res/layout/notification_action_tombstone.xml"
+    }
+]

@@ -1,6 +1,14 @@
 # app_loja
 
-A new Flutter project.
+Projeto de uma loja em Flutter, com sistema de compras integrado com Firebase, sistema de carrinho de compras, pedidos, acompanhamento do pedido, cupons de desconto e outras funções de uma loja.
+
+Requisitos: 
+Flutter e Dart, vscode ou Android Studio.
+Para emular no iOS precisa de um Macbook. 
+
+ATENÇÂO!!! 
+
+Possivelmente a loja vai estar fora do ar, pois criei o vinculo com o Firebase apenas para testar e desenvolver.
 
 ## Getting Started
 
